@@ -1,5 +1,6 @@
 body {
-    margin-bottom: 60px;
+    position: relative;
+    padding-bottom: 60px;
 }
 
 .carousel-inner > .item > img,
@@ -11,6 +12,10 @@ body {
 .carousel-inner > .item > img{
     width: 1000px;
     max-height: 500px;
+}
+
+.col-header {
+    text-align: center;
 }
 
 .footer {
