@@ -13,7 +13,7 @@ body {
     padding: 0;
 }
 
-.carousel-inner > .item > img{
+.carousel-inner > .item > img {
     width: 100%;
     max-height: 500px;
 }
@@ -47,7 +47,7 @@ body {
 }
 
 .main-div {
-    background-color: #e9ebee;
+    background-color: ghostwhite;
 
 }
 
@@ -72,7 +72,7 @@ body {
     color: #b30000;
 }
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: transparent;
 }
 
@@ -81,19 +81,19 @@ body {
     border-color: transparent;
 }
 
-.navbar-inverse .navbar-toggle .icon-bar{
+.navbar-inverse .navbar-toggle .icon-bar {
     background-color: #b30000;
 }
 
-.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
     background-color: transparent;
 }
 
-.navbar-inverse .navbar-nav > li > a{
+.navbar-inverse .navbar-nav > li > a {
     color: #b30000;
 }
 
-.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
     color: #b30000;
 }
 
@@ -101,13 +101,22 @@ body {
     color: #860105;
 }
 
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:focus,
+.navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: #b30000;
+}
+
+#sermon-heading {
+    background-color: #e9ebee;
+}
+
 #sermons {
     width: 100%;
 }
 
 .sermon {
-    border-botton-width: 4px;
-    border-bottom-color: fuchsia;
+    box-shadow: 4px 2px lightgray;
 
 
 }
