@@ -86,8 +86,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="114" column="17" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -307,7 +307,7 @@
       <workItem from="1484700082988" duration="148000" />
       <workItem from="1490024925500" duration="2178000" />
       <workItem from="1490279635674" duration="1691000" />
-      <workItem from="1490399719072" duration="1313000" />
+      <workItem from="1490399719072" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="Added cork background image and rearranged skeleton for about subject.&#10;&#10;">
       <created>1483994046687</created>
@@ -372,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490401578138</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fixed map to scale to screen size">
+      <created>1490401783118</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1490401783118</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42964000" />
+    <option name="totallyTimeSpent" value="44091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,7 +452,8 @@
     <MESSAGE value="Added blog.html to site" />
     <MESSAGE value="Added map to location page" />
     <MESSAGE value="Added google map to location page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added google map to location page" />
+    <MESSAGE value="Fixed map to scale to screen size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed map to scale to screen size" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -752,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="323">
+          <caret line="114" column="17" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
           <folding />
         </state>
       </provider>

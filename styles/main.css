@@ -66,18 +66,18 @@ body {
 }
 
 .navbar-inverse {
-    background-color: ghostwhite;
-    border-color: ghostwhite;
+    background-color: #b30000 /*ghostwhite*/;
+    border-color: #b30000 /*ghostwhite*/;
 }
 
 .navbar-inverse .navbar-brand {
-    color: #b30000;
+    color: ghostwhite /*#b30000*/;
     font-family: Harrington;
     font-size: x-large;
 }
 
 .navbar-inverse .navbar-brand:hover {
-    color: #b30000;
+    color: ghostwhite /*#b30000*/;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
@@ -90,7 +90,7 @@ body {
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #b30000;
+    background-color: ghostwhite /*#b30000*/;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
@@ -98,21 +98,22 @@ body {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #b30000;
+    color: ghostwhite /*#b30000*/;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
-    color: #b30000;
+    color: ghostwhite /*#b30000*/;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-    color: #860105;
+    color: lightgrey /*#860105*/;
 }
 
 .navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse .navbar-nav>.open>a:focus,
 .navbar-inverse .navbar-nav>.open>a:hover {
-    background-color: #b30000;
+    color: black;
+    background-color: ghostwhite /*#b30000*/;
 }
 
 .page-content {
