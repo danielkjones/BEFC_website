@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b1e723-5430-41ff-9a55-56f69f774e3e" name="Default" comment="Added map to location page">
+    <list default="true" id="48b1e723-5430-41ff-9a55-56f69f774e3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/location.html" afterPath="$PROJECT_DIR$/location.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -87,8 +86,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+            <state relative-caret-position="248">
+              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -308,7 +307,7 @@
       <workItem from="1484700082988" duration="148000" />
       <workItem from="1490024925500" duration="2178000" />
       <workItem from="1490279635674" duration="1691000" />
-      <workItem from="1490399719072" duration="1121000" />
+      <workItem from="1490399719072" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="Added cork background image and rearranged skeleton for about subject.&#10;&#10;">
       <created>1483994046687</created>
@@ -366,11 +365,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490288794982</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added google map to location page">
+      <created>1490401578138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490401578138</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42772000" />
+    <option name="totallyTimeSpent" value="42964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,7 +444,8 @@
     <MESSAGE value="Added README for directions to python development server" />
     <MESSAGE value="Added blog.html to site" />
     <MESSAGE value="Added map to location page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added map to location page" />
+    <MESSAGE value="Added google map to location page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added google map to location page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -725,14 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/sermons.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/location.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -743,10 +742,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/sermons.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+        <state relative-caret-position="248">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
           <folding />
         </state>
       </provider>
