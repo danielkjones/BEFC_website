@@ -49,21 +49,29 @@
 
         <!-- Page title -->
         <div class="container page-header">
-            <h1>Gatherings</h1>
+            <h1>Sermons</h1>
         </div>
 
-        <!-- MAIN CONTENT -->
+
+
+        <!-- Sermon Displays -->
         <div class="container page-content">
-            <h2>I'm thinking of listing the different gatherings per week:
-                <ul>
-                    <li>Sunday service w/ QA and nursery/sunday school for kids</li>
-                    <li>All church prayer first wednesday of the month</li>
-                    <li>Bible study every wednesday besides the first of the month</li>
-                    <li>Then I would add another section for Upcoming events</li>
-                </ul>
-            </h2>
-        </div>
+            <?php
+            $xml=simplexml_load_file("styles/sermons.xml") or die("Error: Cannot create object.");
+               foreach($xml->sermon as $sermon){
+                    echo "<div class=\"sermon\">
+                                          <h3>{$sermon->reference}</h3>
+                                          <p><strong>{$sermon->speaker} <br> {$sermon->date}</strong></p>
+                                          <p>{$sermon->description}</p>
+                                          <audio controls=\"controls\">
+                                              <source src=\"http://www.bradfordfreechurch.org/BEFC-mp3s/{$sermon->file}\" type=\"audio/mpeg\">
+                                              Your browser does not support mp3
+                                          </audio>
+                                      </div>";
+               }
 
+            ?>
+        </div>
         <!-- FOOTER -->
         <footer class="footer">
             <div class="container-fluid">
