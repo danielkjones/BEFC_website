@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sermons>
     <sermon>
+        <reference>John 12:35-50</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>April 02, 2017</date>
+        <description></description>
+        <file>17-04-02.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 12:27-36</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>March 26, 2017</date>
+        <description></description>
+        <file>17-03-26.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 12:12-26</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>March 19, 2017</date>
+        <description></description>
+        <file>17-03-19.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 11:45 - 12:11</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>March 12, 2017</date>
+        <description></description>
+        <file>17-03-12.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 11:38-45</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>March 05, 2017</date>
+        <description></description>
+        <file>17-03-05.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>Elders Reflections on J.I.Packer's "Knowing God"</reference>
+        <speaker>Jim, Steve, and Dan</speaker>
+        <date>February 26, 2017</date>
+        <description></description>
+        <file>17-02-26.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 11:17-37</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>February 19, 2017</date>
+        <description></description>
+        <file>17-02-19.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 11:1-16</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>February 12, 2017</date>
+        <description></description>
+        <file>17-02-12.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 10:31-42</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>February 5, 2017</date>
+        <description></description>
+        <file>17-02-05.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 10:22-30</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>January 29, 2017</date>
+        <description></description>
+        <file>17-01-29.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 10:11-18</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>January 22, 2017</date>
+        <description></description>
+        <file>17-01-22.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 10:1-10 (part 2)</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>January 15, 2017</date>
+        <description></description>
+        <file>17-01-15.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 10:1-10</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>January 8, 2017</date>
+        <description></description>
+        <file>17-01-08.mp3</file>
+    </sermon>
+    <sermon>
         <reference>Mark 7:24-30</reference>
         <speaker>Chris Audino</speaker>
         <date>January 1, 2017</date>
@@ -16,12 +107,259 @@
         <reference>Christmas Eve Homily</reference>
         <speaker>Pastor Dacey</speaker>
         <date>December 24, 2016</date>
-        <description>01234567890123456789
-            012345678901234567890123456789
-            012345678901234567890123456789
-            012345678901234567890123456789
-            012345678901234567890123456789
-            0123456789</description>
+        <description></description>
         <file>16-12-24.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 9:8-41</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>December 11, 2016</date>
+        <description></description>
+        <file>16-12-11.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 9:1-7</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>December 04, 2016</date>
+        <description></description>
+        <file>16-12-04.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>Romans 12:14 - 13:7, 1 Peter 2:9-18</reference>
+        <speaker>Dr. Lindsay Whaley</speaker>
+        <date>November 27, 2016</date>
+        <description></description>
+        <file>16-11-27.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 8:46-59</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>November 20, 2016</date>
+        <description></description>
+        <file>16-11-20.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 8:31-47</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>November 13, 2016</date>
+        <description></description>
+        <file>16-11-13.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 8:30-38</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>November 06, 2016</date>
+        <description></description>
+        <file>16-11-06.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 8:12-30</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>October 30, 2016</date>
+        <description></description>
+        <file>16-10-30.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>Colossians 2:6-7</reference>
+        <speaker>Dr. Joel White</speaker>
+        <date>October 23, 2016</date>
+        <description></description>
+        <file>16-10-23.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 8:1-11</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>October 16, 2016</date>
+        <description></description>
+        <file>16-10-16.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:40-52 (part 3)</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>October 09, 2016</date>
+        <description></description>
+        <file>16-10-09.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:40-52 (part 2)</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>October 02, 2016</date>
+        <description></description>
+        <file>16-10-02.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:40-52</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>September 25, 2016</date>
+        <description></description>
+        <file>16-09-25.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:37-39</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>September 18, 2016</date>
+        <description></description>
+        <file>16-09-18.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:31-39</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>September 11, 2016</date>
+        <description></description>
+        <file>16-09-11.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>Psalm 112</reference>
+        <speaker>Kevin Schwartz</speaker>
+        <date>September 04, 2016</date>
+        <description></description>
+        <file>16-09-04.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:14-31</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>August 28, 2016</date>
+        <description></description>
+        <file>16-08-28.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 7:1-13</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>August 21, 2016</date>
+        <description></description>
+        <file>16-08-21.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:59-71</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>August 14, 2016</date>
+        <description></description>
+        <file>16-08-14.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>1 Corinthians 11:23-34</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>August 07, 2016</date>
+        <description></description>
+        <file>16-08-07.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:47-59</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>July 31, 2016</date>
+        <description></description>
+        <file>16-07-31.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 1:1-4, 14</reference>
+        <speaker>Francus Waithaka Kairu</speaker>
+        <date>July 24, 2016</date>
+        <description></description>
+        <file>16-07-24.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:35-48</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>July 17, 2016</date>
+        <description></description>
+        <file>16-07-17.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:22-36</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>July 10, 2016</date>
+        <description></description>
+        <file>16-07-10.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:16-22</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>July 03, 2016</date>
+        <description></description>
+        <file>16-07-03.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 6:1-15</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>June 26, 2016</date>
+        <description></description>
+        <file>16-06-26.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 5:30-47</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>June 19, 2016</date>
+        <description></description>
+        <file>16-06-19.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>1 Peter 4:1-11</reference>
+        <speaker>Ryan Bouton</speaker>
+        <date>June 12, 2016</date>
+        <description></description>
+        <file>16-06-12.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>1 Peter 5:6-14</reference>
+        <speaker>Drew Matter</speaker>
+        <date>June 05, 2016</date>
+        <description></description>
+        <file>16-06-05.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 5:17-24</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>May 29, 2016</date>
+        <description></description>
+        <file>16-05-29.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 5:1-18</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>May 22, 2016</date>
+        <description></description>
+        <file>16-05-22.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 4:43-54</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>May 15, 2016</date>
+        <description></description>
+        <file>16-05-15.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>Psalm 46</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>May 08, 2016</date>
+        <description></description>
+        <file>16-05-08.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 4:1-39, 42</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>May 01, 2016</date>
+        <description></description>
+        <file>16-05-01.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 4:1-26</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>April 24, 2016</date>
+        <description></description>
+        <file>16-04-24.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 3:22-36</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>April 17, 2016</date>
+        <description></description>
+        <file>16-04-17.mp3</file>
+    </sermon>
+    <sermon>
+        <reference>John 3:16-21</reference>
+        <speaker>Pastor Dacey</speaker>
+        <date>April 10, 2016</date>
+        <description></description>
+        <file>16-04-10.mp3</file>
     </sermon>
 </sermons>
