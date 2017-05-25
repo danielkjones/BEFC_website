@@ -11,12 +11,13 @@ body {
 
 #carousel-container {
     width: 100%;
+    height: auto;
     padding: 0;
 }
 
 .carousel-inner > .item > img {
     width: 100%;
-    max-height: 500px;
+    height: auto;
 }
 
 .carousel-inner > .item > img,
@@ -54,6 +55,17 @@ body {
     text-decoration: none;
 }
 
+h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    width: auto/9;
+}
+
 #index-mission-statement {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -62,6 +74,19 @@ body {
 
 #index-mission-statement > h3 {
 
+}
+
+.info-picture {
+    width: 75%;
+    height: auto;
+    width: auto;
+    padding-top: 30px;
+}
+
+.info-picture-image {
+    width: 75%;
+    height: auto;
+    width: auto/9;
 }
 
 .info-text {
