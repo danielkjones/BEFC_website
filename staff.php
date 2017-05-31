@@ -22,16 +22,39 @@
         <h1>Pastors and Elders</h1>
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div class="container page-content">
-        <h2>Pastor:</h2>
-        <h3>J. Donald Dacey</h3>
-        <br>
-        <h2>Elders:</h2>
-        <h3>Dan Lee</h3>
-        <h3>Bill Camp</h3>
-        <h3>Jim Newcomb</h3>
-        <h3>Steve Goss</h3>
+    <div class="container-fluid">
+        
+        
+        <div class="row">
+            <div class="col-sm-4 staff-picture">
+                <img src="images/pastor_and_mary.png" alt="Pastor and Mary">
+            </div>
+
+            <div class="col-sm-8">
+                <h2>Pastor:</h2>
+                <h3>J. Donald Dacey</h3>
+                <div class="info-text">
+                    <p>J Donald Dacey has been the pastor of BEFC since 1999.</p>
+                    <p>Donald spent the first half of his adult life in business in Europe, the Middle East and in the US.  It was while                        living in Europe that he came to faith (Francis Schaeffer was instrumental in that move).  He then with Mary decided                        to take a sabbatical and go to seminary (Westminster Theological Seminary and Yale Divinity School). Which                                  unexpectedly led into the pastorate... and BEFC.
+                    </p>
+                    <p>Donald and Mary have been married 46 years and have three children: Alastair, Jamieson and Elizabeth Blair.</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="container fluid page-content">
+    
+        <div class="col-sm-4">
+            <h2>BEFC's Elders:</h2>
+        </div>
+        
+        <div class="col-sm-8">
+            <h3>Dan Lee</h3>
+            <h3>Jim Newcomb</h3>
+            <h3>Steve Goss</h3>
+        </div>
 
     </div>
 

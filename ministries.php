@@ -24,10 +24,10 @@
 
     <!-- MAIN CONTENT -->
     <div class="container page-content">
-        <div class="info-picture">
-            <img src="/images/IMG_7024.JPG" alt="OCC Sign" class="info-picture-image">
-        </div>
         <h2>Operation Christmas Child</h2>
+        <div class="info-picture">
+            <img src="images/occ_sign.jpeg" alt="OCC Sign in Field" class="info-picture-image">
+        </div>
         <div class="info-text">
             <p><strong>Operation Christmas Child is a project of the international relief organization, Samaritan’s Purse.
                 The mission is to provide local partners around the world with shoeboxes filled with small gifts,
@@ -51,10 +51,10 @@
             <p>603-272-9025.</p>
         </div>
         
-        <div class="info-picture">
-            <img src="/images/IMG_6296.JPG" alt="Grace Give-Away" class="info-picture-image">
-        </div>
         <h2>Grace Give-Away</h2>
+        <div class="info-picture">
+            <img src="images/clothing_giveaway.jpeg" alt="Grace Giveaway" class="info-picture-image">
+        </div>
         <div class="info-text">
             <p> Once a year we collect donations of clothing and other miscellaneous items to give away to families in the area.
             </p>

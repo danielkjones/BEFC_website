@@ -7,7 +7,7 @@
                                   <span class=\"icon-bar\"></span>
                                   <span class=\"icon-bar\"></span>
                               </button>
-                              <a class=\"navbar-brand\" href=\"/\">Bradford Evangelical Free Church</a>
+                              <a class=\"navbar-brand\" href=\"index.php\">Bradford Evangelical Free Church</a>
                           </div>
                           <div class=\"collapse navbar-collapse\" id=\"myNavbar\">
                               <ul class=\"nav navbar-nav navbar-right\">
@@ -19,11 +19,23 @@
                                       <ul class=\"dropdown-menu\">
                                           <li><a href=\"staff.php\">Pastors and Elders</a></li>
                                           <li><a href=\"who-we-are.php\">Who We Are</a></li>
+                                          <li><a href=\"what-we-believe.php\">What We Believe</a></li>
                                           
                                       </ul>
                                   </li>
                                   <li><a href=\"gatherings.php\">Gatherings</a></li>
-                                  <li><a href=\"ministries.php\">Ministries</a></li>
+                                  <li><a href=\"fellowship.php\">Fellowship</a><li>                                  
+                                  <li class=\"dropdown\">
+                                      <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">
+                                          Ministries<span class=\"caret\"></span>
+                                      </a>
+                                      <ul class=\"dropdown-menu\">
+                                          <li><a href=\"occ.php\">Operation Christmas Child</a></li>
+                                          <li><a href=\"grace-giveaway.php\">Grace Giveaway</a></li>
+                                          <li><a href=\"missions.php\">Missions</a></li>
+                                      </ul>
+                                  </li>
+                                  
                                   <li><a href=\"sermons.php\">Sermons</a></li>
                                   
                               </ul>

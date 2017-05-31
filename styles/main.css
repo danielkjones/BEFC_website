@@ -26,6 +26,22 @@ body {
     margin: auto;
   }
 
+.centered {
+    text-align: center;
+}
+
+#collage-slide {
+    width: 38.6%;
+    margin: auto;
+    display: flex;
+}
+
+#collage-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 .col-header {
     text-align: center;
 }
@@ -72,25 +88,24 @@ img {
     width: 100%;
 }
 
-#index-mission-statement > h3 {
 
-}
 
 .info-picture {
     width: 75%;
     height: auto;
     width: auto;
-    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .info-picture-image {
-    width: 75%;
+    width: 50%;
     height: auto;
     width: auto/9;
 }
 
 .info-text {
     font-size: 18px;
+    padding-bottom: 30px;
 }
 
 .main-div {
@@ -187,4 +202,8 @@ img {
 
     margin-bottom: 20px;
 
+}
+
+.staff-picture {
+    padding-top: 20px;
 }

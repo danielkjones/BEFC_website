@@ -25,14 +25,14 @@
     <!-- MAIN CONTENT -->
     <div class="container page-content info-text">
         <p>
-            Bradford EFC is a congregational church with local decision-making but at the
+            Bradford EFC is a congregational church with local decision-making while at the
 
             same time (and very gladly) a part of a larger church movement, The Evangelical
 
             Free* Church of America. <a href="https://www.efca.org/explore">https://www.efca.org/explore</a>
         </p>
         <p>
-            *What’s this <b>“Free Church”</b>
+            *What’s a <b>“Free Church”</b>
         </p>
         <p>
             Well, “Free Church” has <b>two</b> primary meanings:
@@ -64,7 +64,7 @@
         </p>
 
         <p>
-            <i>The `business’ of the church:</i>
+            <i>The `business’ of the church (and our church):</i>
         </p>
         <p>
             <i>…To equip the saints for the work of ministry, for building up the body of Christ,

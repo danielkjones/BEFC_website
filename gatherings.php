@@ -48,6 +48,9 @@
             <h4><strong>First Wednesday Every Month:</strong> 7:00 PM, All Church Prayer at Dacey's</h4>
             <h4><strong>Wednesdays:</strong> 7:00 PM, South Road Bible Study</h4>
             <br>
+            <h3>Connecting (Intentionally)</h4>
+            <h4>More connection opportunities include Guys Huddle, SAFE, and Pheobe groups that meet various times and places</h4>
+            <br>
             <h3>Upcoming Events:</h3>
             <h4><strong>Wednesday April 5, 2017:</strong> Pregnancy Center Banquet</h4>
             <br>

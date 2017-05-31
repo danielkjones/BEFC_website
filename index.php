@@ -19,13 +19,14 @@
 
         <!-- SLIDE SHOW -->
         <div class="container" id="carousel-container">
-            <div id="homepage-carousel" class="carousel slide" data-ride="carousel">
+            <div id="homepage-carousel" class="carousel slide" data-ride="carousel" data-interval="2500">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
                     <li data-target="#homepage-carousel" data-slide-to="0" class="active"></li>
                     <li data-target="#homepage-carousel" data-slide-to="1"></li>
                     <li data-target="#homepage-carousel" data-slide-to="2"></li>
                     <li data-target="#homepage-carousel" data-slide-to="3"></li>
+                    <li data-target="#homepage-carousel" data-slide-to="4"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -33,13 +34,19 @@
                     <div class="item active">
                         <img src="images/church_and_field.jpeg" alt="Church and Field">
                     </div>
+                    
+                    <div class="item">
+                        <img src="images/DSC_0048.JPG" alt="Gathering in the Kitchen">
+                    </div>
 
                     <div class="item">
                         <img src="images/people_and_fire.jpeg" alt="People and Fire">
                     </div>
 
                     <div class="item">
-                        <img src="images/barn_and_field.jpeg" alt="Barn and Field">
+                        <div id="collage-slide">
+                            <img id="collage-image" src="images/collage.jpg" alt="Church Family Collage">
+                        </div>
                     </div>
 
                     <div class="item">
@@ -62,10 +69,9 @@
         <!-- MISSION STATEMENT -->
         <div class="container" id="index-mission-statement">
             <blockquote class="blockquote-reverse">
-                <h3>A community of followers of the resurrected Lord Jesus Christ.
-                <br>Journeying into His life, into His obedience,
-                <br>into His fruitfulness.
-                </h3>
+                <h1><i>We look forward to welcoming you ... </i></h1> 
+                <h1><i>just as Christ has welcomed us!</i></h1>
+            
             </blockquote>
         </div>
 
