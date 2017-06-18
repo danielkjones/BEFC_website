@@ -1,3 +1,9 @@
+.banner-picture {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 body {
     position: relative;
     padding-bottom: 60px;
@@ -71,6 +77,14 @@ body {
     text-decoration: none;
 }
 
+.gallery {
+    padding-bottom: 30px;
+}
+
+.gallery-image {
+    padding-bottom: 15px;
+}
+
 h2 {
     padding-top: 20px;
     padding-bottom: 10px;
@@ -95,10 +109,11 @@ img {
     height: auto;
     width: auto;
     padding-bottom: 20px;
+    
 }
 
 .info-picture-image {
-    width: 50%;
+    max-width: 500px;
     height: auto;
     width: auto/9;
 }

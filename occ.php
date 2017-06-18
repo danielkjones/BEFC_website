@@ -23,10 +23,20 @@
     </div>
 
     <!-- MAIN CONTENT -->
-    <div class="container page-content">
-        <div class="info-picture">
-            <img src="images/occ_sign.jpeg" alt="OCC Sign in Field" class="info-picture-image">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6">
+                <img src="images/occ_sign.jpeg" alt="OCC Sign in Field" class="gallery-image">
+            </div>
+            <div class="col-sm-6">
+                <img src="images/occ_packing.JPG" alt="OCC Packing Boxes" class="gallery-image">
+            </div>
+            <div class="col-sm-6">
+                <img src="images/occ_kids.png" alt="Kids Recieving Boxes" class="gallery-image">
+            </div>
         </div>
+    </div>
+    <div class="container page-content">
         <div class="info-text">
             <p><strong>Operation Christmas Child is a project of the international relief organization, Samaritan’s Purse.
                 The mission is to provide local partners around the world with shoeboxes filled with small gifts,

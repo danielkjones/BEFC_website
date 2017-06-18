@@ -19,12 +19,12 @@
 
     <!-- Page title -->
     <div class="container page-header">
-        <h1>Blog</h1>
+        <h1>Listening Post</h1>
     </div>
 
     <!-- MAIN CONTENT -->
     <div class="container page-content">
-        <h2>I need more direction with what this page will be used for</h2>
+        <h2>This is a listening post page.</h2>
     </div>
 
     <!-- FOOTER -->

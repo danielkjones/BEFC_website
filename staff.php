@@ -34,10 +34,13 @@
                 <h2>Pastor:</h2>
                 <h3>J. Donald Dacey</h3>
                 <div class="info-text">
-                    <p>J Donald Dacey has been the pastor of BEFC since 1999.</p>
-                    <p>Donald spent the first half of his adult life in business in Europe, the Middle East and in the US.  It was while                        living in Europe that he came to faith (Francis Schaeffer was instrumental in that move).  He then with Mary decided                        to take a sabbatical and go to seminary (Westminster Theological Seminary and Yale Divinity School). Which                                  unexpectedly led into the pastorate... and BEFC.
+                    <p>J Donald Dacey has been the pastor of BEFC since 1999.
+                    Donald spent the first half of his adult life in business in Europe, the Middle East and in the US. 
+                    It was while living in Europe that he came to faith (Francis Schaeffer being instrumental in that transition).
+                      He and Mary then decided to take a sabbatical and study at Westminster Theological Seminary and Yale Divinity School.
+                       Which led to a different calling ... into the pastorate and BEFC. 
+                       They have three children: Alastair, Jamieson and Elizabeth Blair (and two grandchildren).
                     </p>
-                    <p>Donald and Mary have been married 46 years and have three children: Alastair, Jamieson and Elizabeth Blair.</p>
                 </div>
             </div>
             
@@ -54,6 +57,10 @@
             <h3>Dan Lee</h3>
             <h3>Jim Newcomb</h3>
             <h3>Steve Goss</h3>
+            <div class="info-text">
+                <p>BEFC's Elder Board has three members in addition to the pastor:
+                  Dan Lea, Jim Newcomb and Steve Goss - all New Hampshire residents who have been with the church for 15 to 35 years.</p>
+            </div>
         </div>
 
     </div>

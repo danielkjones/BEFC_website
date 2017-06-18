@@ -23,8 +23,37 @@
     </div>
 
     <!-- MAIN CONTENT -->
+    <div class="container-fluid gallery">
+        <div class="row">
+            <div class="col-sm-3">
+                <img src="images/da_streets.png" alt="Image of the Streets" class="gallery-image">
+            </div>
+            <div class="col-sm-3">
+                <img src="images/image%20(2).png" alt="Image of the Buildings" class="gallery-image">
+            </div>
+            <div class="col-sm-3">
+                <img src="images/image.png" alt="The Alleyway" class="gallery-image">
+            </div>
+            <div class="col-sm-3">
+                <img src="images/small_sleeping_baby.png" alt="Sleeping Baby" class="gallery-image">
+            </div>
+
+        </div>
+    </div>
     <div class="container page-content">
-        <h2>This page will be used for Missions</h2>
+        <div class="info-text centered">
+            <p>
+                Since its founding in 1979, BEFC has been committed to missions. <br>  
+                And that led to a very solid relationship with the indigenous church in Cuba. <br>
+                It led to the support of a young scholar who now teaches New Testament at a Germany seminary.<br>
+                It has led to the Cameroon and to an outreach to Muslims in major US cities. <br>
+                It led to the support - both in time and funding - to the Day Spring Pregnancy Center near by. <br>
+                It leads in all sorts of directions. <br>
+            </p>
+            <p>
+                Which is in the nature of Christ's mission.    
+            </p>
+        </div>
     </div>
 
     <!-- FOOTER -->

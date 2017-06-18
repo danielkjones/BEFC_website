@@ -27,7 +27,7 @@
         <!-- Sermon Displays -->
         <div class="container page-content">
             <?php
-            $xml=simplexml_load_file("styles/sermons.xml") or die("Error: Cannot create object.");
+            $xml=simplexml_load_file("sermon-info/sermons.xml") or die("Error: Cannot create object.");
                foreach($xml->sermon as $sermon){
                     echo "<div class=\"sermon\">
                                           <h3>{$sermon->reference}</h3>

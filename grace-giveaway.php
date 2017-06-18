@@ -28,7 +28,10 @@
             <img src="images/clothing_giveaway.jpeg" alt="Grace Giveaway" class="info-picture-image">
         </div>
         <div class="info-text">
-            <p> Once a year we collect donations of clothing and other miscellaneous items to give away to families in the area.
+            <p> 
+            Each year BEFC has an opportunity to serve the community by collecting and making available a wide 
+            assortment of clothing and shoes and books and games and kitchen stuff. It takes place in August just 
+            before school begins and always enjoys an enthusiastic reception.
             </p>
         </div>
     </div>

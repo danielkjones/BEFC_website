@@ -35,9 +35,15 @@
                                           <li><a href=\"missions.php\">Missions</a></li>
                                       </ul>
                                   </li>
-                                  
-                                  <li><a href=\"sermons.php\">Sermons</a></li>
-                                  
+                                  <li class=\"dropdown\">
+                                      <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">
+                                          Resources<span class=\"caret\"></span>
+                                      </a>
+                                      <ul class=\"dropdown-menu\">
+                                          <li><a href=\"sermons.php\">Sermons</a></li>
+                                          <li><a href=\"listening-post.php\">Listening Post</a></li>
+                                      </ul>
+                                  </li>                                  
                               </ul>
                           </div>
                       </div>

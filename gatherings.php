@@ -25,16 +25,16 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-3">
-                    <img src="images/BigBoy.jpeg" alt="Little Helper">
+                    <img src="images/BigBoy.jpeg" alt="Little Helper" class="gallery-image">
                 </div>
                 <div class="col-sm-3">
-                    <img src="images/formal_dinner.jpeg" alt="Formal Dinner">
+                    <img src="images/formal_dinner.jpeg" alt="Formal Dinner" class="gallery-image">
                 </div>
                 <div class="col-sm-3">
-                    <img src="images/fall_gathering.jpeg" alt="People at Fire">
+                    <img src="images/fall_gathering.jpeg" alt="People at Fire" class="gallery-image">
                 </div>
                 <div class="col-sm-3">
-                    <img src="images/knock2.jpeg" alt="Church Service">
+                    <img src="images/knock2.jpeg" alt="Church Service" class="gallery-image">
                 </div>
             </div>
         </div>

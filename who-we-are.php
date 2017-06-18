@@ -23,68 +23,74 @@
     </div>
 
     <!-- MAIN CONTENT -->
-    <div class="container page-content info-text">
-        <p>
-            Bradford EFC is a congregational church with local decision-making while at the
+    <div class="container-fluid banner-picture">
+        <img src="images/who_we_are_banner.jpeg" alt="Church Sign">
+    </div>
+    
+    <div class="container page-content">
+        <div class="info-text">
+            <p>
+                Bradford EFC is a congregational church with local decision-making while at the
 
-            same time (and very gladly) a part of a larger church movement, The Evangelical
+                same time (and very gladly) a part of a larger church movement, The Evangelical
 
-            Free* Church of America. <a href="https://www.efca.org/explore">https://www.efca.org/explore</a>
-        </p>
-        <p>
-            *What’s a <b>“Free Church”</b>
-        </p>
-        <p>
-            Well, “Free Church” has <b>two</b> primary meanings:
-        </p>
-        <p>
-            <u>Firstly</u>, it refers to a congregational form of church government with authority
+                Free* Church of America. <a href="https://www.efca.org/explore">https://www.efca.org/explore</a>
+            </p>
+            <p>
+                *What’s a <b>“Free Church”</b>
+            </p>
+            <p>
+                Well, “Free Church” has <b>two</b> primary meanings:
+            </p>
+            <p>
+                <u>Firstly</u>, it refers to a congregational form of church government with authority
 
-            residing in the congregation. This reflects the biblical insight that “we are the
+                residing in the congregation. This reflects the biblical insight that “we are the
 
-            church” – every believer being a vital and participating member of the local Body
+                church” – every believer being a vital and participating member of the local Body
 
-            of Christ.
-        </p>
-        <p>
-            In Church history this has often been distinguished from a more hierarchical form
+                of Christ.
+            </p>
+            <p>
+                In Church history this has often been distinguished from a more hierarchical form
 
-            of local church government or a local church under direct denominational
+                of local church government or a local church under direct denominational
 
-            authority.
-        </p>
-        <p>
-            <u>Secondly</u>, the “Free church” refers to a strong separation of church and state
+                authority.
+            </p>
+            <p>
+                <u>Secondly</u>, the “Free church” refers to a strong separation of church and state
 
-            tradition. It arose in Europe in reaction to the “established” churches which
+                tradition. It arose in Europe in reaction to the “established” churches which
 
-            sometimes, in return for being granted monopoly status by the state, would
+                sometimes, in return for being granted monopoly status by the state, would
 
-            gradually forfeit their integrity.
-        </p>
+                gradually forfeit their integrity.
+            </p>
 
-        <p>
-            <i>The `business’ of the church (and our church):</i>
-        </p>
-        <p>
-            <i>…To equip the saints for the work of ministry, for building up the body of Christ,
+            <p>
+                <i>The `business’ of the church (and our church):</i>
+            </p>
+            <p>
+                <i>…To equip the saints for the work of ministry, for building up the body of Christ,
 
-            until we all attain to the unity of the faith and of the knowledge of the Son of God,
+                until we all attain to the unity of the faith and of the knowledge of the Son of God,
 
-            to mature manhood, to the measure of the stature of the fullness of Christ, so that
+                to mature manhood, to the measure of the stature of the fullness of Christ, so that
 
-            we may no longer be children, tossed to and fro by the waves and carried about by
+                we may no longer be children, tossed to and fro by the waves and carried about by
 
-            every wind of doctrine, by human cunning, by craftiness in deceitful schemes.
+                every wind of doctrine, by human cunning, by craftiness in deceitful schemes.
 
-            Rather, speaking the truth in love, we are to grow up in every way into him who is
+                Rather, speaking the truth in love, we are to grow up in every way into him who is
 
-            the head, into Christ, from whom the whole body, joined and held together by
+                the head, into Christ, from whom the whole body, joined and held together by
 
-            every joint with which it is equipped, when each part is working properly, makes
+                every joint with which it is equipped, when each part is working properly, makes
 
-                the body grow so that it builds itself up in love. (Eph 4:12-16)</i>
-        </p>
+                    the body grow so that it builds itself up in love. (Eph 4:12-16)</i>
+            </p>
+        </div>
     </div>
 
     <!-- FOOTER -->
