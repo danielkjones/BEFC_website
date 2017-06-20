@@ -27,6 +27,8 @@
                     <li data-target="#homepage-carousel" data-slide-to="2"></li>
                     <li data-target="#homepage-carousel" data-slide-to="3"></li>
                     <li data-target="#homepage-carousel" data-slide-to="4"></li>
+                    <li data-target="#homepage-carousel" data-slide-to="5"></li>
+                    <li data-target="#homepage-carousel" data-slide-to="6"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -36,7 +38,15 @@
                     </div>
                     
                     <div class="item">
+                        <img src="images/big_boy_3.jpeg" alt="Big Boy Logging">
+                    </div>
+                    
+                    <div class="item">
                         <img src="images/DSC_0048.JPG" alt="Gathering in the Kitchen">
+                    </div>
+                    
+                    <div class="item">
+                        <img src="images/formal_dinner_2.jpg" alt="Formal Dinner">
                     </div>
 
                     <div class="item">
@@ -52,6 +62,7 @@
                     <div class="item">
                         <img src="images/pews.jpeg" alt="Church Pews" >
                     </div>
+                    
                 </div>
 
                 <!-- Left and right controls -->

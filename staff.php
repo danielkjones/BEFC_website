@@ -58,8 +58,9 @@
             <h3>Jim Newcomb</h3>
             <h3>Steve Goss</h3>
             <div class="info-text">
-                <p>BEFC's Elder Board has three members in addition to the pastor:
-                  Dan Lea, Jim Newcomb and Steve Goss - all New Hampshire residents who have been with the church for 15 to 35 years.</p>
+                <p>BEFC's Elder Board has three members in addition to the pastor:<br>
+                  &emsp; Dan Lea, Jim Newcomb and Steve Goss <br>
+                    all New Hampshire residents who have been with the church for 15 to 35 years.</p>
             </div>
         </div>
 

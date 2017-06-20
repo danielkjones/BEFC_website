@@ -34,7 +34,7 @@
                     <img src="images/fall_gathering.jpeg" alt="People at Fire" class="gallery-image">
                 </div>
                 <div class="col-sm-3">
-                    <img src="images/knock2.jpeg" alt="Church Service" class="gallery-image">
+                    <img src="images/smiling_man.jpeg" alt="Smiling Man" class="gallery-image">
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
             <h4><strong>Wednesdays:</strong> 7:00 PM, South Road Bible Study</h4>
             <br>
             <h3>Connecting (Intentionally)</h4>
-            <h4>More connection opportunities include Guys Huddle, SAFE, and Pheobe groups that meet various times and places</h4>
+            <h4>More connection opportunities include Guys Huddle, SAFE, and Phoebe groups that meet various times and places</h4>
             <br>
             <h3>Upcoming Events:</h3>
             <h4><strong>Wednesday April 5, 2017:</strong> Pregnancy Center Banquet</h4>
