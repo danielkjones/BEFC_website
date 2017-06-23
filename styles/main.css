@@ -52,6 +52,10 @@ body {
     text-align: center;
 }
 
+.double-spaced {
+    line-height: 2em;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
