@@ -52,7 +52,6 @@
             <h4>More connection opportunities include Guys Huddle, SAFE, and Phoebe groups that meet various times and places</h4>
             <br>
             <h3>Upcoming Events:</h3>
-            <h4><strong>Wednesday April 5, 2017:</strong> Pregnancy Center Banquet</h4>
             <br>
         </div>
 
