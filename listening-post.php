@@ -24,7 +24,7 @@
 
     <!-- MAIN CONTENT -->
     <div class="container page-content">
-        <h2>This is a listening post page.</h2>
+        <h3>We use this page for quick links and blog posts related to who we are, our mission, and what we are learning</h3>
     </div>
 
     <!-- FOOTER -->
