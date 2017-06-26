@@ -4,9 +4,13 @@
     padding-bottom: 30px;
 }
 
+.baseline {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
 body {
     position: relative;
-    padding-bottom: 60px;
     max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
@@ -52,19 +56,20 @@ body {
     text-align: center;
 }
 
+.credit {
+    background-color: #999999;
+    padding: 10px 0;
+}
+
 .double-spaced {
     line-height: 2em;
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
     width: 100%;
-    height: 70px;
     color: white;
     background-color: lightgrey;
     padding-top: 30px;
-    padding-bottom: 40px;
 }
 
 .footer > .container-fluid {
