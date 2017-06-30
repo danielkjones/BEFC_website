@@ -58,7 +58,8 @@ body {
 
 .credit {
     background-color: #999999;
-    padding: 10px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .double-spaced {
